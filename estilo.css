@@ -1,0 +1,44 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient( rgba(166, 227, 152, 0.658),  rgba(214, 186, 240, 0.658));
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+
+}
+
+#todo-o-texto{
+    width: 600px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 140px;
+    text-align: center;
+    background-color: rgba(183, 247, 189, 0.658);
+    border-radius: 30px;
+}
+
+input{
+    height: 20px;
+    width: 60%;
+    margin-top: 15px;
+    background-color: rgba(98, 176, 106, 0.658);
+    border: none;
+    
+}
+span{
+    font-size: 1.2em;
+}
+
+#letras{
+    margin-right: 99px;
+}
+#numeros{
+    margin-right:75px;
+}
+#texto-caracter{
+    margin-right:78px;
+}
+
